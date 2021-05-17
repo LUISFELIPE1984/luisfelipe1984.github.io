@@ -1,4 +1,7 @@
-body{background-color: black;}
-.icono{background-color: deepskyblue;}
-
-
+body{color: white;
+    background-color: black;}
+.icono {background-color:darkturquoise}
+.card{background-color: darkturquoise;}
+footer{background-color: darkturquoise;}
+.fa-3x{color: white;}
+h2{border-bottom-color: darkturquoise;}
